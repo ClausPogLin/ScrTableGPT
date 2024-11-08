@@ -1,0 +1,37 @@
+{
+  "Days":[
+    {
+      "Weekday" : 1,
+      "Items" : [{
+        "Title" : "语文A02",
+        "Location": "香山A502教室",
+        "Description": "教师: 葛琴英",
+        "StartTime": "07:20:00",
+        "EndTime": "07:50:00"
+      },
+        {
+          "Title" : "英语A01",
+          "Location": "香山A502教室",
+          "Description": "教师: 郑炎林",
+          "StartTime": "08:00:00",
+          "EndTime": "08:40:00"
+        }]
+    },{
+      "Weekday" : 2,
+      "Items" : [{
+        "Title" : "英语A01",
+        "Location": "香山A502教室",
+        "Description": "教师: 郑炎林",
+        "StartTime": "07:20:00",
+        "EndTime": "07:50:00"
+      },
+        {
+          "Title" : "语文A01",
+          "Location": "香山A502教室",
+          "Description": "教师: 葛琴英",
+          "StartTime": "08:00:00",
+          "EndTime": "08:40:00"
+        }]
+    }
+  ]
+}
