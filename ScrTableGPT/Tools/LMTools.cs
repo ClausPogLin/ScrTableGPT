@@ -17,7 +17,7 @@ public static class LMTools
         var request = new JsonObject
         {
             ["model"] = Data.MODEL,
-            ["temperature"] = 0.5,
+            ["temperature"] = 0,
             ["max_tokens"] = 8192,
             ["top_p"] = 1,
             ["stream"] = true,
